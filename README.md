@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucifer2203
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning python and cpp
+- 👀 I’m currently learning DSA in cpp
+- 🌱 Enthusiast in problem solving skills.
 
 <!---
 lucifer2203/lucifer2203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
